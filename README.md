@@ -1,5 +1,5 @@
 # 3dprintable_nexus6_wallet_case_openscad
- A 3d printable customizable wallet case for OnePlus 3/3T designed with OpenSCAD
+ A 3d printable customizable wallet case for Motorola Google Nexus 6 designed with OpenSCAD
 
 Optimized for Semiflex/Cheetah. Ninjaflex will probaly work, too.
 Some softer types of PLA may work, but the hinge can break eventually.
